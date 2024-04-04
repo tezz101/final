@@ -14,7 +14,7 @@ Budget Tracker/Finance Manager: Create a personal finance application that track
 
 Educational Tool for Kids: Develop an interactive learning module for children, like a simple arithmetic quiz game, a spelling practice tool, or a geography quiz.
 
-Home Automation System: If you're interested in IoT, you could write a script to automate tasks at home, like managing lights, temperature, or even feeding pets, using a Raspberry Pi.
+Home Automation System:  write a script to automate tasks at home, like managing lights, temperature, or even feeding pets, using a Raspberry Pi.
 
 Health and Fitness Tracker: Create an application where users can log their exercise routines, meals, or meditations and track their progress over time.
 
